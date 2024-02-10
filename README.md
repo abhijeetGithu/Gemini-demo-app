@@ -1,6 +1,6 @@
 # Gemini Demo App
 
-This repository contains a demo application showcasing the capabilities and features of Gemini a google multi-model , a cutting-edge framework for building responsive and interactive web applications.
+This repository contains a demo application showcasing the capabilities and features of Gemini, a cutting-edge framework for building responsive and interactive web applications.
 
 ## Overview
 Gemini is designed to empower developers to create modern web applications with ease. This demo app serves as a practical illustration of Gemini's functionalities, including:
@@ -30,6 +30,6 @@ Contributions to this demo app are welcome. If you have suggestions for improvem
 This demo app is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
-Gemini is developed and maintained by [YourCompany](https://www.yourcompany.com). We extend our gratitude to the open-source community for their contributions and support.
+Gemini is developed and maintained by [YourCompany](https://www.google.com/). We extend our gratitude to the open-source community for their contributions and support.
 
-For more information about Gemini, visit the [official website]([https://gemini-framework.com](https://blog.google/technology/ai/google-gemini-ai/)https://blog.google/technology/ai/google-gemini-ai/).
+For more information about Gemini, visit the [official website](https://blog.google/technology/ai/google-gemini-ai/).
