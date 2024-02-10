@@ -32,4 +32,4 @@ This demo app is licensed under the MIT License. See the LICENSE file for detail
 ## Acknowledgements
 Gemini is developed and maintained by [YourCompany](https://www.yourcompany.com). We extend our gratitude to the open-source community for their contributions and support.
 
-For more information about Gemini, visit the [official website](https://gemini-framework.com).
+For more information about Gemini, visit the [official website]([https://gemini-framework.com](https://blog.google/technology/ai/google-gemini-ai/)https://blog.google/technology/ai/google-gemini-ai/).
